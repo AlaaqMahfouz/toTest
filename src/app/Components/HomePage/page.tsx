@@ -8,7 +8,7 @@ import TopNavbar from "../TopNavBar/page"
 export default function HomePage(){
 
     // get the root element
-    const root = document.getElementById('lebanon-flag');
+    const root=0
 
     document.addEventListener('mousemove', (event) => {
     // calculate transformation values
